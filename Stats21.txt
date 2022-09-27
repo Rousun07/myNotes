@@ -1,2 +1,14 @@
 Introduction to Version Control with Git - Introduction to Git
+Codes for Git are:
+Git status
+Nano 
+Git add
+Git commit
+Git diff
+Git diff -r HEAD
+Git diff -r HEAD filename
+Git show
+
+Git pull //update git file
+Git clone //copy from others repository
 
