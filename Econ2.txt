@@ -1,0 +1,3 @@
+GDP
+Market value of all final goods and services produced within a country in a given 
+period of time.
